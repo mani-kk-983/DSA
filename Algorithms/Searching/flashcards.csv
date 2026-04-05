@@ -1,0 +1,50 @@
+Why is a scan required when searching through unordered information?,"Because the information has no structure, every element must be checked."
+What characteristic of information allows for the elimination of regions during a search?,Ordered information.
+"What determines the specific strategy (e.g., array vs. tree) used for searching?",The data structure.
+What is the primary tradeoff involved in searching efficiency?,Time versus preprocessing (such as sorting or hashing).
+"In terms of decision-making, what is the goal of a search algorithm?",To minimize comparisons and narrow the decision space.
+When is a Linear Scan the most appropriate search pattern?,When the input is unsorted or the input size is small.
+What condition must be met to use Binary Search on a search space?,The space must be sorted or satisfy a monotonic condition.
+What is the average time complexity of a Hash Lookup?,$O(1)$.
+How does the Two Pointers pattern narrow the search space?,By moving markers inward from both ends of a sorted structure.
+For what type of problems is the 'Search on Answer' pattern typically used?,Optimization problems.
+"Which patterns are used to explore trees, graphs, or state spaces systematically?",Graph Search patterns such as BFS and DFS.
+What is the time complexity of finding if an element exists in an unsorted array?,$O(n)$.
+The insight that searching is not limited to checking for equality is demonstrated by which basic problem?,Finding the minimum element.
+How can the 'first occurrence' search be optimized in a linear scan?,By stopping the scan early once the target is found.
+What is the 'insight' behind checking if an array is sorted?,Precondition detection.
+What is the time complexity of a standard Binary Search?,$O(\log n)$.
+"To find the first occurrence of a target using binary search, what bias must be applied?",Bias left.
+"To find the last occurrence of a target using binary search, what bias must be applied?",Bias right.
+Concept: Lower Bound,Definition: The first element in a sorted range that is greater than or equal to the target.
+Concept: Upper Bound,Definition: The first element in a sorted range that is strictly greater than the target.
+How is the count of occurrences calculated in a sorted array using binary search?,The formula is $\text{last index} - \text{first index} + 1$.
+What is the key insight for searching in a rotated sorted array?,One half of the array is always sorted.
+"In a peak element search, what information is used to decide which half of the space to eliminate?",The slope direction.
+How does the search strategy change for a 'nearly sorted' array?,The algorithm must check immediate neighbors during the binary search.
+Why is the square root of an integer solvable via Binary Search?,The function $f(x) = x^2$ is monotonic.
+What is the search goal in a 'first bad version' problem?,Identifying the transition point.
+What is the time complexity of the Two Sum problem on a sorted array using Two Pointers?,$O(n)$.
+How is the Two Sum problem solved in $O(n)$ time for an unsorted array?,By using Hash Lookup to trade space for time.
+What is the time complexity of the 3Sum problem using the Sort + Two Pointer approach?,$O(n^2)$.
+What is the goal of the 'Allocate Books' problem?,To minimize the maximum load.
+"In 'Koko Eating Bananas,' what specific variable is being optimized?",The rate of consumption.
+What is the time complexity for finding the median of two sorted arrays?,"$O(\log(\min(n, m)))$."
+How can a 2D matrix search be optimized to $O(\log (n \cdot m))$?,By treating the 2D space as a flattened 1D array for binary search.
+What happens to the time complexity of finding the minimum in a rotated array if duplicates are present?,It remains $O(\log n)$ on average but becomes $O(n)$ in the worst case.
+What is the search pattern for finding an element in an infinite sorted array?,Exponential search followed by Binary Search.
+A bitonic array search uses which two-step strategy?,"Find the peak, then perform separate searches on the increasing and decreasing halves."
+What is the first step in the recommended Learning Strategy for search problems?,"Identify the structure (sorted, monotonic, or graph)."
+"According to the Learning Strategy, what must be defined in Step 3?",The invariant (what stays true during each step).
+What is the mastery signal for identifying search patterns?,The ability to identify the correct pattern in less than 10 seconds.
+The mental model defines searching as 'progressively shrinking _____'.,Uncertainty.
+"When a problem involves multiple elements in a sorted array, which coordination pattern is most common?",Two Pointers.
+The 'Aggressive Cows' problem is an example of which search pattern?,Search on Answer.
+What is the time complexity of a peak search in a 2D grid?,$O(n \log m)$.
+The 'Search Insert Position' problem uses the same logic as which Binary Search variant?,Lower Bound.
+"In the 'Capacity to Ship Packages' problem, the constraint is described as _____.",Monotonic.
+What is the time complexity for a Linear Scan to find the maximum element index?,$O(n)$.
+The 'Search on Answer' pattern utilizes a _____ check to narrow the solution space.,Feasibility.
+Why does a bitonic array require finding the peak before searching for a target?,To split the array into two monotonic halves.
+What is the core mechanism of 'Progressive Problem Sets' in the learning process?,Building from basic control to core patterns and finally optimization thinking.
+How does sorting help in solving the 'Pair with given difference' problem?,It allows the use of Two Pointers or Binary Search to transform the condition.
