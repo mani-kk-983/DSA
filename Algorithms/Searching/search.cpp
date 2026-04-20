@@ -177,7 +177,7 @@ public:
             if(arr[m]>arr[m+1]) j=m;
             else i=m+1;
         }
-        return arr[i]; // Peak element
+        return i; // Peak element
     }
 
     // 10. Find the square root of a number using binary search
