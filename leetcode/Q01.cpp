@@ -1,9 +1,4 @@
-//two sum problem:
-#include <vector>
-#include <iostream>
-#include <algorithm>
-#include <unordered_map>
-using namespace std;
+//two sum problem;
 
 class Solution {
 public:
