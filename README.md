@@ -52,3 +52,15 @@ To improve consistency, recognize patterns, and solve problems efficiently.
 ## 🚀 Note
 
 This repository is continuously updated as I learn and practice more problems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
