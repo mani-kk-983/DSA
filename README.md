@@ -69,6 +69,7 @@ This repository is continuously updated as I learn and practice more problems.
 | ------- |
 | [0069-sqrtx](https://github.com/mani-kk-983/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,12 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
