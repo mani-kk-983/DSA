@@ -86,4 +86,12 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mani-kk-983/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mani-kk-983/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
