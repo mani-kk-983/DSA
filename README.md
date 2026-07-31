@@ -67,6 +67,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mani-kk-983/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mani-kk-983/DSA/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/mani-kk-983/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
