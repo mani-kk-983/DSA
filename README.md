@@ -59,11 +59,13 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mani-kk-983/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,20 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mani-kk-983/DSA/tree/master/0012-integer-to-roman) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
