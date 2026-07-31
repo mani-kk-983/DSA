@@ -11,5 +11,14 @@ public:
         return false;
        }
     return true;
+/*
+Need:   Detect symmetry.
+Applications:
+>DNA sequence analysis
+>Error detection
+>Pattern recognition
+>Barcode/ID validation
+>String algorithms
+    */
     }
 };
