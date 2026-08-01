@@ -58,6 +58,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -114,9 +115,14 @@ This repository is continuously updated as I learn and practice more problems.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
