@@ -1,16 +1,19 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-    vector<int> ans;
+    //Using two pinters partition; we can solve this problem;
+    /* Idea is to maintain the two ptr=> l&r;
+        l=nxt POS for Even(0) & r= scan the ptr
+        if(0)-> swap to l;
+    */
+    int l = 0;
+    for(int r = 0; r < nums.size(); r++){
+        if(nums[r] % 2 == 0){
+            swap(nums[l], nums[r]);
+            l++;
+        }
+    }
 
-        for (int x : nums)
-            if (x % 2 == 0)
-                ans.push_back(x);
-
-        for (int x : nums)
-            if (x % 2 != 0)
-                ans.push_back(x);
-
-        return ans;
+    return nums;
     }
 };
