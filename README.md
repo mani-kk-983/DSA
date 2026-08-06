@@ -62,6 +62,7 @@ This repository is continuously updated as I learn and practice more problems.
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
 | [0896-monotonic-array](https://github.com/mani-kk-983/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/mani-kk-983/DSA/tree/master/0905-sort-array-by-parity) |
+| [1470-shuffle-the-array](https://github.com/mani-kk-983/DSA/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/mani-kk-983/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/mani-kk-983/DSA/tree/master/1929-concatenation-of-array) |
