@@ -58,6 +58,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mani-kk-983/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
 | [0896-monotonic-array](https://github.com/mani-kk-983/DSA/tree/master/0896-monotonic-array) |
@@ -133,6 +134,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mani-kk-983/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/mani-kk-983/DSA/tree/master/0905-sort-array-by-parity) |
 ## Enumeration
