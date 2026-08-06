@@ -80,6 +80,7 @@ This repository is continuously updated as I learn and practice more problems.
 | [0069-sqrtx](https://github.com/mani-kk-983/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mani-kk-983/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +135,8 @@ This repository is continuously updated as I learn and practice more problems.
 | ------- |
 | [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/mani-kk-983/DSA/tree/master/0905-sort-array-by-parity) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mani-kk-983/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
