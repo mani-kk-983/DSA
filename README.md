@@ -64,6 +64,7 @@ This repository is continuously updated as I learn and practice more problems.
 | [0905-sort-array-by-parity](https://github.com/mani-kk-983/DSA/tree/master/0905-sort-array-by-parity) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/mani-kk-983/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mani-kk-983/DSA/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repository is continuously updated as I learn and practice more problems.
 | ------- |
 | [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/mani-kk-983/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mani-kk-983/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
