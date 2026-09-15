@@ -80,6 +80,7 @@ This repository is continuously updated as I learn and practice more problems.
 | [0007-reverse-integer](https://github.com/mani-kk-983/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mani-kk-983/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/mani-kk-983/DSA/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/mani-kk-983/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mani-kk-983/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/mani-kk-983/DSA/tree/master/0258-add-digits) |
@@ -144,4 +145,8 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mani-kk-983/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mani-kk-983/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
