@@ -62,6 +62,7 @@ This repository is continuously updated as I learn and practice more problems.
 | [0027-remove-element](https://github.com/mani-kk-983/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
+| [0560-subarray-sum-equals-k](https://github.com/mani-kk-983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0896-monotonic-array](https://github.com/mani-kk-983/DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/mani-kk-983/DSA/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/mani-kk-983/DSA/tree/master/1470-shuffle-the-array) |
@@ -116,6 +117,7 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/mani-kk-983/DSA/tree/master/0012-integer-to-roman) |
+| [0560-subarray-sum-equals-k](https://github.com/mani-kk-983/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mani-kk-983/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/mani-kk-983/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
