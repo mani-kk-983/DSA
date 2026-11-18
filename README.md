@@ -113,6 +113,7 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mani-kk-983/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/mani-kk-983/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,4 +153,16 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mani-kk-983/DSA/tree/master/0050-powx-n) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mani-kk-983/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mani-kk-983/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mani-kk-983/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
