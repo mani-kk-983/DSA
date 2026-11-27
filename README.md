@@ -60,6 +60,7 @@ This repository is continuously updated as I learn and practice more problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mani-kk-983/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mani-kk-983/DSA/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/mani-kk-983/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mani-kk-983/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/mani-kk-983/DSA/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mani-kk-983/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ This repository is continuously updated as I learn and practice more problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mani-kk-983/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mani-kk-983/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -167,4 +169,8 @@ This repository is continuously updated as I learn and practice more problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mani-kk-983/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mani-kk-983/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
